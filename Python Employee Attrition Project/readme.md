@@ -1,4 +1,4 @@
-This project aims to leverage data analytics to understand why employees leave the organization. By analyzing the Employees Data.csv dataset, I identify high-risk departments, visualize attrition-prone employee profiles, and uncover the primary drivers behind turnover to help HR teams implement better retention strategies.
+This project aims to leverage data analytics to understand why employees leave the organization. By analyzing the employees_attrition_data.csv dataset, I identify high-risk departments, visualize attrition-prone employee profiles, and uncover the primary drivers behind turnover to help HR teams implement better retention strategies.
 
 The analysis is performed on a dataset containing 1,470 records and 35 features. Key features include:
 
