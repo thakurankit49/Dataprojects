@@ -1,1 +1,2 @@
-# Dataprojects1668
+This project focuses on extracting actionable business insights from a relational database for a retail bike store. Using a series of SQL queries, I analyzed sales performance, staff productivity, and inventory levels to help drive data-driven decision-making.
+The project utilizes a relational schema consisting of 9 tables organized into two main scopes: Sales: Customers, Orders, Order Items, Staffs, and Stores. Production: Categories, Products, Stocks, and Brands.
