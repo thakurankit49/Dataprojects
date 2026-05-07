@@ -1,7 +1,7 @@
 This project analyzes a global automotive sales dataset to identify growth opportunities and operational inefficiencies. By examining over 2,700 transactions across 20 attributes, I developed a data-driven roadmap to optimize revenue, improve customer retention, and resolve order status disputes.
 
 Analytical Workflow:
-1. Data Cleaning: Handled missing values and verified data types (e.g., converting ORDERDATE to datetime objects).
+1. Data Cleaning: Handled missing values and verified data types.
 
 2. Exploratory Data Analysis (EDA): Segmented sales by product line, deal size, and geographic territory.
 
