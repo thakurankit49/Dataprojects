@@ -9,3 +9,11 @@ Key Business Questions Addressed:
 3. Regional Analysis: Which cities and countries are the primary drivers of revenue
 
 4. Product Portfolio: Which product lines (e.g., Classic Cars vs. Motorcycles) contribute most
+
+Key Insights:
+
+1. Seasonality: High sales activity is concentrated in the early and late months of the year, suggesting a strong end-of-year push and early-year budget resets.
+
+2. Product Dominance: Classic Cars account for roughly 40% of the total revenue, indicating a high-margin niche that could benefit from targeted marketing.
+
+3. Regional Concentration: Sales are heavily concentrated in European and North American hubs, highlighting opportunities for expansion in other territories
